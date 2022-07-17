@@ -1,4 +1,4 @@
-import pymysql.wewewe
+import pymysql.cursors
 
 
 class MySQLConnection:
