@@ -13,7 +13,7 @@ class User:
         self.first_name = data['first_name']
         self.last_name = data['last_name']
         self.email_addy = data['email_addy']
-        self.created_at = data['created_at']
+        self.created_at = data['created_by']
         self.updated_at = data['updated_at']
 
     def full_name(self):
