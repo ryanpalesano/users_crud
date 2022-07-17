@@ -1,7 +1,7 @@
 from user import User
 from flask import Flask, redirect, request, render_template
 
-app = Flask(__name__)
+app = Flask(__nono---name__)
 
 # View ALL USERS
 
